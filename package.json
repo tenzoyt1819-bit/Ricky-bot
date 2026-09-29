@@ -1,0 +1,7 @@
+{
+  "name": "ricky-bot",
+  "type": "module",
+  "dependencies": {
+    "bedrock-protocol": "^5.0.0"
+  }
+}
